@@ -1,2 +1,3 @@
 Hello, I'm  Emmyu
-Hello,am an aspiring software developer
+Hello am a software developer
+Debugging a code that unlocks the Unknown
