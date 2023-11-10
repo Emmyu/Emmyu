@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://justemmy.framer.ai/)
 
-- 📝 I regularly write articles on [https://justemmy.framer.ai/](https://justemmy.framer.ai/)
+- 📝 I regularly write articles on [https://justemmy.framer.ai/](https://medium.com/@emmyunng_93087)
 
 - 💬 Ask me about **Dart, Html , CSS , react , React Native**
 
