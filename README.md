@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Flutter and Ml projects**
 
-- 👨‍💻 All of my projects are available at [http://emmyunng.wixsite.com/portfolio](http://emmyunng.wixsite.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://justemmy.framer.ai/)
 
-- 📝 I regularly write articles on [http://emmyunng.wixsite.com/portfolio](http://emmyunng.wixsite.com/portfolio)
+- 📝 I regularly write articles on [https://justemmy.framer.ai/](https://justemmy.framer.ai/)
 
 - 💬 Ask me about **Dart, Html , CSS , react , React Native**
 
